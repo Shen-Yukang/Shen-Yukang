@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shen-Yukang
-- 🧐 I‘m a KSU Student. In the past, I was a software engineering in Sensetime LTD, a cityU researcher.
+- 🧐 I‘m a KSU Student. In the past, I was a software engineering in Sensetime LTD.
 - 👀 I’m interested in Coding、EI(VLAs、RL、3D Reconstruction...)、Tradtional AI、Sports(Swimming and climbing)...
 - 🌱 I’m currently learning/doing research(Agents/RAG/VLAs/MultiLLM Communication/Spatial Inference)
 - 📫 How to reach me: shenyukang99@gmail.com
