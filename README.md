@@ -5,7 +5,8 @@
 - 📫 How to reach me: shenyukang99@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+- 👨‍🎓 [GoogleScholar](https://scholar.google.com/citations?user=4BWagysAAAAJ&hl=en)
+- 
 <!---
 Shen-Yukang/Shen-Yukang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
